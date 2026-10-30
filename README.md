@@ -16,7 +16,7 @@ It is one page: `index.html` and `style.css`, with no frameworks, trackers, anal
 
 PNG, sRGB, with all metadata stripped (no camera, location or editor details).
 
-Search `index.html` for `IMAGE PLACEHOLDER` to find where each one goes.
+`og-image.png` is optional and not added yet: search `index.html` for `IMAGE PLACEHOLDER` to switch it on.
 
 ## Changes
 
